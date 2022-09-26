@@ -1,12 +1,4 @@
 # ISU Profile Plugin
-Contributors:		IDFive
-Donate link:		https://idfive.com
-Tags:				gutenberg, add Directory block, show/hide Personal Profile Pages
-Tested up to:		1.0
-Requires at least:	6.0.2
-Requires PHP:		5.6
-Stable tag:			4.0
-
 
 ## Description
 
