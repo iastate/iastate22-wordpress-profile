@@ -1,0 +1,6 @@
+{
+    "name": "iastate/wordpress-profile-plugin",
+    "description": "Wordpress plugin for Iowa State University. Allows adding static profiles.",
+    "type":"wordpress-plugin",
+    "minimum-stability" : "stable"
+}
