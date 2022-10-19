@@ -1,6 +1,9 @@
 <?php
 /*
 Plugin Name: ISU Personal Profile Pages
+Description: Show/hide Personal Profile Pages(custom posts), and manage your Personal Profile Pages and enable or disable Directory gutenberg block.
+Version: 1.0.0
+Author: iastate Web Development Services
 */
 
 // Register Custom Post Type
